@@ -1,0 +1,20 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "love story",
+    "slug": "love-story",
+    "description": "classic love story",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "mystery",
+    "slug": "mystery",
+    "description": "the chilling books",
+    "active": true
+  }
+}
+]
